@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimeGirlCreditCardInfo", "AnimeGirlCreditCardInfo\AnimeGirlCreditCardInfo.csproj", "{0E6CB082-9DFC-4B7D-917A-5CD0D62AC541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E6CB082-9DFC-4B7D-917A-5CD0D62AC541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6CB082-9DFC-4B7D-917A-5CD0D62AC541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6CB082-9DFC-4B7D-917A-5CD0D62AC541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6CB082-9DFC-4B7D-917A-5CD0D62AC541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49C8D7D4-C96B-491C-A3E2-495AB25632F1}
+	EndGlobalSection
+EndGlobal
